@@ -3,8 +3,8 @@
 # @Time : 2024/4/9 20:28
 # @Author : Lovecraftzhou
 # @Site :
-import json
 
+import json
 from paho.mqtt import client as mqtt_client
 from config import mqtt_config, logger
 
@@ -27,7 +27,7 @@ def connect_mqtt() -> mqtt_client:
             print("Failed to connect, return code %d\n", rc)
 
     client = mqtt_client.Client(client_id)
-    client.tls_set(ca_certs='./server-ca.crt')
+    client.tls_set(ca_certs='config/server-ca.crt')
     client.username_pw_set(username, password)
     client.on_connect = on_connect
     client.connect(broker, port)
@@ -36,8 +36,13 @@ def connect_mqtt() -> mqtt_client:
 
 def subscribe(client: mqtt_client):
     def on_message(client, userdata, msg):
+        print(f"Received `{msg.payload.decode()}` from `{msg.topic}` topic")
         message = json.loads(msg.payload.decode())
-        # print(f"Received `{msg.payload.decode()}` from `{msg.topic}` topic")
+        temperature = message.get('temperature')
+        humidity = message.get('humidity')
+
+        # 打印解析后的数据
+        print(f"Temperature: {temperature}°C, Humidity: {humidity}%")
         logger.info("Receive Data")
 
     client.subscribe(topic)
