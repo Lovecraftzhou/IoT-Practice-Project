@@ -1,0 +1,10 @@
+numpy~=1.18.5
+loguru~=0.6.0
+yaml~=0.2.5
+pyyaml~=6.0
+redis~=5.0.4
+paho-mqtt~=1.6.1
+opencv-python~=4.9.0.80
+pillow~=9.5.0
+flask~=2.2.5
+tensorflow~=2.3.0

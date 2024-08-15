@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="18c50324-f2cf-47b5-9140-b5412bf62a75" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LSTM-weather/deploy.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LSTM-weather/timeseries_weather_forecasting.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/config/config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/config/mqtt_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/config/server-ca.crt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/data/result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/predict_sub.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IoT Practice Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IoT Practice Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LSTM-weather/multi-weather-LSTM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LSTM-weather/multi-weather-LSTM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardware/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/hardware/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardware/config/mqtt_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hardware/config/mqtt_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardware/logs/2024_04_10.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardware/ml_service.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardware/mqtt_sub.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/mqtt_sub.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hardware/tasks.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2fgp6I60yY6vTg93AGLics0b4OS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/AStudy/NUS/Study/Semester2/SWE5004 IoT/Practice Project/IoT Practice Project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\AStudy\NUS\Study\Semester2\SWE5004 IoT\Practice Project\IoT Practice Project\service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AStudy\NUS\Study\Semester2\SWE5004 IoT\Practice Project\IoT Practice Project\hardware" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mqtt_sub">
+    <configuration name="mqtt_sub" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IoT Practice Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/service" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/service/mqtt_sub.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="predict_sub" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IoT Practice Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/service" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/service/predict_sub.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="IoT Practice Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hardware" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hardware/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mqtt_sub" />
+        <item itemvalue="Python.predict_sub" />
+        <item itemvalue="Python.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18c50324-f2cf-47b5-9140-b5412bf62a75" name="Changes" comment="" />
+      <created>1714232398187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714232398187</updated>
+      <workItem from="1714232399329" duration="2718000" />
+      <workItem from="1714282017403" duration="35241000" />
+      <workItem from="1714484001612" duration="10175000" />
+      <workItem from="1714544631916" duration="601000" />
+      <workItem from="1714546626095" duration="1012000" />
+      <workItem from="1714553751030" duration="153000" />
+      <workItem from="1714659954712" duration="527000" />
+      <workItem from="1714661351462" duration="40000" />
+      <workItem from="1714708951652" duration="222000" />
+      <workItem from="1714709182684" duration="3000" />
+      <workItem from="1714737073147" duration="783000" />
+      <workItem from="1714738880759" duration="5000" />
+      <workItem from="1714746101207" duration="78000" />
+      <workItem from="1714824180571" duration="1406000" />
+      <workItem from="1715044109111" duration="3000" />
+      <workItem from="1715045366224" duration="881000" />
+      <workItem from="1715046395801" duration="779000" />
+      <workItem from="1716206116953" duration="2427000" />
+      <workItem from="1716210057453" duration="189000" />
+      <workItem from="1716219945076" duration="629000" />
+      <workItem from="1716225171851" duration="607000" />
+      <workItem from="1716286708068" duration="606000" />
+      <workItem from="1716293922650" duration="1754000" />
+      <workItem from="1716699677538" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://D:/AStudy/NUS/Study/Semester2/SWE5004 IoT/Practice Project/IoT Practice Project/LSTM-weather/multi-weather-LSTM.ipynb</url>
+          <line>129</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IoT_Practice_Project$predict_sub.coverage" NAME="predict_sub Coverage Results" MODIFIED="1714300448824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
+    <SUITE FILE_PATH="coverage/IoT_Practice_Project$start.coverage" NAME="start Coverage Results" MODIFIED="1714287981185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hardware" />
+    <SUITE FILE_PATH="coverage/IoT_Practice_Project$mqtt_sub.coverage" NAME="mqtt_sub Coverage Results" MODIFIED="1714553760354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/service" />
+  </component>
+</project>

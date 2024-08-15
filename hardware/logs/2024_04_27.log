@@ -1,0 +1,41 @@
+2024-04-27 22:44:02.448 | INFO     | __main__:on_connect:27 - Connected to MQTT Broker!
+2024-04-27 22:45:04.004 | INFO     | __main__:on_connect:27 - Connected to MQTT Broker!
+2024-04-27 22:46:00.845 | INFO     | __main__:update_image:109 - Predicted Diesease: 
+2024-04-27 22:46:03.312 | INFO     | __main__:update_image:109 - Predicted Diesease: 
+2024-04-27 22:46:06.522 | INFO     | __main__:update_image:109 - Predicted Diesease: 
+2024-04-27 22:46:14.813 | INFO     | __main__:update_image:109 - Predicted Diesease: 
+2024-04-27 22:50:17.865 | INFO     | __main__:on_connect:27 - Connected to MQTT Broker!
+2024-04-27 22:50:30.976 | INFO     | __main__:update_image:109 - Predicted Diesease: 
+2024-04-27 22:50:33.452 | INFO     | __main__:update_image:109 - Predicted Diesease: 
+2024-04-27 22:50:35.988 | INFO     | __main__:update_image:109 - Predicted Diesease: 
+2024-04-27 23:34:39.312 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:34:39 | temp = 29.00 C humidity =47.00%
+2024-04-27 23:34:43.250 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:34:43 | temp = 29.00 C humidity =43.00%
+2024-04-27 23:34:45.530 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:34:45 | temp = 29.00 C humidity =58.00%
+2024-04-27 23:34:48.087 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:34:48 | temp = 29.00 C humidity =63.00%
+2024-04-27 23:34:51.201 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:34:51 | temp = 29.00 C humidity =50.00%
+2024-04-27 23:34:53.481 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:34:53 | temp = 28.00 C humidity =49.00%
+2024-04-27 23:34:55.762 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:34:55 | temp = 28.00 C humidity =46.00%
+2024-04-27 23:34:58.871 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:34:58 | temp = 28.00 C humidity =40.00%
+2024-04-27 23:35:01.153 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:35:01 | temp = 28.00 C humidity =39.00%
+2024-04-27 23:35:13.917 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:35:13 | temp = 28.00 C humidity =62.00%
+2024-04-27 23:35:22.817 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:35:22 | temp = 28.00 C humidity =70.00%
+2024-04-27 23:35:25.375 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:35:25 | temp = 28.00 C humidity =69.00%
+2024-04-27 23:35:27.655 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:35:27 | temp = 28.00 C humidity =65.00%
+2024-04-27 23:35:29.935 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:35:29 | temp = 28.00 C humidity =69.00%
+2024-04-27 23:35:42.141 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:35:42 | temp = 28.00 C humidity =67.00%
+2024-04-27 23:35:49.940 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:35:49 | temp = 28.00 C humidity =69.00%
+2024-04-27 23:35:52.772 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:35:52 | temp = 28.00 C humidity =66.00%
+2024-04-27 23:35:55.882 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:35:55 | temp = 28.00 C humidity =67.00%
+2024-04-27 23:36:03.130 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:36:03 | temp = 28.00 C humidity =66.00%
+2024-04-27 23:36:05.962 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:36:05 | temp = 28.00 C humidity =67.00%
+2024-04-27 23:36:08.796 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:36:08 | temp = 28.00 C humidity =67.00%
+2024-04-27 23:36:14.109 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:36:14 | temp = 28.00 C humidity =67.00%
+2024-04-27 23:36:19.422 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:36:19 | temp = 27.00 C humidity =68.00%
+2024-04-27 23:36:27.216 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:36:27 | temp = 27.00 C humidity =67.00%
+2024-04-27 23:36:36.392 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:36:36 | temp = 27.00 C humidity =66.00%
+2024-04-27 23:36:48.045 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:36:48 | temp = 27.00 C humidity =68.00%
+2024-04-27 23:37:09.353 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:37:09 | temp = 27.00 C humidity =69.00%
+2024-04-27 23:37:11.633 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:37:11 | temp = 27.00 C humidity =70.00%
+2024-04-27 23:37:24.672 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:37:24 | temp = 27.00 C humidity =72.00%
+2024-04-27 23:37:29.984 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:37:29 | temp = 27.00 C humidity =70.00%
+2024-04-27 23:37:37.777 | INFO     | __main__:publish_sensor_data:69 - Datatime:2024-04-27 23:37:37 | temp = 27.00 C humidity =73.00%
