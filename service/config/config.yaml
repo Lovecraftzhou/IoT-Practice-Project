@@ -1,0 +1,13 @@
+#Redis config
+Redis:
+  host: 127.0.0.1
+  port: 6379
+  db: 0
+
+# SQL Server
+SQL:
+  host: "(local)"
+  port: 1433
+  user: "sa"
+  pwd: "ZZh*88321"
+  db: "MLModel"

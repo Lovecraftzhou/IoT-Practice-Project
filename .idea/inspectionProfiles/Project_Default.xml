@@ -3,7 +3,7 @@
     <option name="myName" value="Project Default" />
     <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
       <Languages>
-        <language minSize="64" name="Python" />
+        <language minSize="89" name="Python" />
       </Languages>
     </inspection_tool>
     <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -84,6 +84,9 @@
         <list>
           <option value="train.ultralytics" />
           <option value="typing.Hashable.__add__" />
+          <option value="grovepi" />
+          <option value="tuple.__await__" />
+          <option value="list.tojson" />
         </list>
       </option>
     </inspection_tool>

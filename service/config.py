@@ -15,6 +15,7 @@ current_path = os.path.dirname(os.path.abspath(__file__))
 logs_path = os.path.join(current_path, "logs")
 t = time.strftime("%Y_%m_%d")
 
+
 def setup_logger():
     # logger.remove()
     # logger.add(sys.stdout, format="{time} {level} {message}")
@@ -45,4 +46,10 @@ def init_config_file(config_path):
 
     return config_data
 
-mqtt_config = init_config_file("config/mqtt_config.yml")
+
+mqtt_config = init_config_file("../service/config/mqtt_config.yml")
+current_path = os.path.dirname(os.path.abspath(__file__))
+config_file_path = os.path.join(current_path, "config")
+config_path = os.path.join(config_file_path, "config.yaml")
+# Redis and db config
+con_config = init_config_file(config_path)

@@ -2,7 +2,7 @@ mqtt:
   broker: xd63b66a.ala.asia-southeast1.emqxsl.com
   # broker: broker.emqx.io  # TEST
   port: 8883
-  client_id: iot-sensor
+  client_id: iot-get
   # auth
   username: iot
   password: '11413'
@@ -14,10 +14,10 @@ mqtt2:
   broker: xd63b66a.ala.asia-southeast1.emqxsl.com
   # broker: broker.emqx.io  # TEST
   port: 8883
-  client_id: iot-results
+  client_id: results-get
   # auth
   username: iot
   password: '11413'
-  topic: "/iot/predict"
+  topic:  "/iot/predict"
   # generate client ID with pub prefix randomly
   qos: 2
